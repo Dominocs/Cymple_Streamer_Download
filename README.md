@@ -63,15 +63,15 @@ Cymple Streamer 是基于 [ALVR](https://github.com/alvr-org/ALVR) 扩展的 VR 
 ### 教程与问题反馈
 
 - [小白使用教程](desktop/docs/小白使用教程.md)：连接步骤、设置速查、音频与追踪配置、常见问题排查。
-- [PDF 使用教程](output/pdf/Cymple_Streamer_小白使用教程_v0.3.1.pdf)：适合离线阅读和分享，按 0.3.1 整理。
+- [PDF 使用教程](Cymple_Streamer_小白使用教程_v0.3.1.pdf)：适合离线阅读和分享，按 0.3.1 整理。
 - [桌面端与构建说明](desktop/README.md)：开发、打包和功能实现说明。
 - [提交问题](https://github.com/Dominocs/cymple_Streamer/issues)：请附两端版本、头显 / 显卡型号、连接方式、复现步骤和日志。
 
 遇到问题，先看电脑「状态面板」和「运行日志」。日志可通过「打开日志目录」获取，也可在资源管理器打开 `%LOCALAPPDATA%\Cymple Streamer\logs`。
 
-### 开源与致谢
+### 致谢
 
-本项目基于 ALVR 修改与扩展，感谢 ALVR 维护者及开源社区的贡献。
+本项目基于 ALVR 修改与扩展，感谢 ALVR 维护者及开源社区的贡献。第三方组件及模型遵循各自随附的许可证。
 
 ---
 
@@ -123,12 +123,12 @@ Install the EXE on your PC and the APK on your headset. Use the files provided t
 ### Documentation and support
 
 - [Beginner guide (Chinese)](desktop/docs/小白使用教程.md): connection steps, settings, audio and tracking setup, and troubleshooting.
-- [PDF guide (Chinese)](output/pdf/Cymple_Streamer_小白使用教程_v0.3.1.pdf): an offline guide based on version 0.3.1.
+- [PDF guide (Chinese)](Cymple_Streamer_小白使用教程_v0.3.1.pdf): an offline guide based on version 0.3.1.
 - [Desktop and build documentation (Chinese)](desktop/README.md): development, packaging, and implementation notes.
 - [Report an issue](https://github.com/Dominocs/cymple_Streamer/issues): include both app versions, headset and GPU models, connection type, reproduction steps, and logs.
 
 For troubleshooting, start with **Overview** and **Logs** in the desktop app. Choose **Open log folder**, or open `%LOCALAPPDATA%\Cymple Streamer\logs` in File Explorer.
 
-### License and acknowledgments
+### Acknowledgments
 
-This project modifies and extends ALVR. Thanks to the ALVR maintainers and the open-source community for their work. The project uses the [MIT license](vr/LICENSE); third-party components and models retain their respective licenses.
+This project modifies and extends ALVR. Thanks to the ALVR maintainers and the open-source community for their work. Third-party components and models retain their respective licenses.
