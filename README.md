@@ -71,7 +71,7 @@ Cymple Streamer 是基于 [ALVR](https://github.com/alvr-org/ALVR) 扩展的 VR 
 
 ### 开源与致谢
 
-本项目基于 ALVR 修改与扩展，感谢 ALVR 维护者及开源社区的贡献。项目采用 [MIT 许可证](vr/LICENSE)，第三方组件及模型遵循各自随附的许可证。
+本项目基于 ALVR 修改与扩展，感谢 ALVR 维护者及开源社区的贡献。
 
 ---
 
